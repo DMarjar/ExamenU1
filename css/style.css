@@ -1,0 +1,26 @@
+.text-blue {
+    color:cornflowerblue
+}
+
+.color-blue {
+    color: white;
+    background-color: cornflowerblue;
+    outline-color: cornflowerblue;
+    
+}
+
+.btn-separate{
+    margin: 10px;
+}
+
+.card{
+    margin-top: 20px;
+}
+
+#carouselExampleCaptions{
+    margin-top: 20px;
+}
+
+#side{
+    margin-top: 20px;
+}
